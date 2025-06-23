@@ -62,7 +62,7 @@
 
 📌 프로그램 Main 화면
 
-![01  main UI](https://github.com/user-attachments/assets/c9c615ae-0f5f-4a3c-a864-6fad35f8f14f)
+
 
 📌 저장된 결과 비교 화면
 
