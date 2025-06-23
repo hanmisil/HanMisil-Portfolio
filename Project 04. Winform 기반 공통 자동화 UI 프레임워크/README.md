@@ -65,4 +65,20 @@ C# WinForms + MVC 구조로 설계 및 개발하였습니다.
 
 ## 🖼️ UI
 
+📌 로그인 화면
+
+![04  winform UI 1](https://github.com/user-attachments/assets/bac5aae2-18d8-4585-8cd5-24ba422214a2)
+
+📌 시스템 설정 화면
+
+![04  winform UI 2](https://github.com/user-attachments/assets/2cc03a05-8880-4829-a996-b71b3f333528)
+
+📌 하드웨어 관리 및 카메라 연동
+
+![04  winform UI 3](https://github.com/user-attachments/assets/071a0d45-2486-4104-b568-9f809cfd6830)
+
+📌 모델 별 비전 셋팅 화면
+
+![04  winform UI 4](https://github.com/user-attachments/assets/75f5dca4-172e-4861-896e-02f93b364e1a)
+
 <br><br><br>
