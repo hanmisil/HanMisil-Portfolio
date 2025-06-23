@@ -57,9 +57,19 @@
 
 ## 🖼️ Program
 
+📌 카메라(Sensopart Config) 프로그램 비전 설정
+
 ![02  sensopart config sample](https://github.com/user-attachments/assets/302f4177-4c01-4126-b49a-df5663233403)
 
+<br>
+
+📌 카메라(Sensopart Config) 프로그램 비전 설정
+
 ![02  sensopart config image](https://github.com/user-attachments/assets/b9147173-c747-40f1-bd72-a5016fab50ea)
+
+<br>
+
+📌 로봇 펜턴드 테스트 화면
 
 ![02  robot pendant](https://github.com/user-attachments/assets/6453c4df-3315-4018-be9b-c6a008c5bc49)
 
