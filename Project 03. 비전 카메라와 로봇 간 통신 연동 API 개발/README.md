@@ -52,3 +52,14 @@
 | 연동 대상         | 비전 카메라, 로봇, 모션 제어기 |
 | 핵심 기능         | REST API 통신, 상태 기반 동작, 좌표 캘리브레이션 |
 | 주요 성과         | 자동화된 모션 트리거, 오류 감소, 언어 변환 시스템 구축 |
+
+<br><br><br>
+
+## 🖼️ Program
+
+![02  sensopart config sample](https://github.com/user-attachments/assets/302f4177-4c01-4126-b49a-df5663233403)
+
+![02  sensopart config image](https://github.com/user-attachments/assets/b9147173-c747-40f1-bd72-a5016fab50ea)
+
+![02  robot pendant](https://github.com/user-attachments/assets/6453c4df-3315-4018-be9b-c6a008c5bc49)
+
