@@ -12,3 +12,14 @@ Python의 내장 라이브러리 `configparser`를 사용하여 `.ini` 설정 �
 - `.ini` 설정 파일을 사용하여 Key-Value 저장 및 읽기
 - 존재하지 않는 섹션(`Section`)이나 키(`Key`)일 경우 자동으로 생성
 - 기본값을 설정하고, `.ini` 파일이 없을 경우 새로 생성
+
+<br><br>
+
+## 📂 파일 구조
+
+```bash/
+├── README.md
+└── config_ini_example.py   -> 샘플 코드
+```
+
+<br><br>
